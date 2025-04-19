@@ -1,27 +1,42 @@
 [
-    {
-       "name": "Prince Rajesh",
-       "Age": 23,
-       "location": "kvp"
-    },
-    {
-       "name": "Aang",
-       "Age": 120,
-       "location": "Air Nation"
-    },
-    {
-       "name": "Katara",
-       "Age": 20,
-       "location": "Water Nation"
-    },
-    {
-       "name": "Sokka",
-       "Age": 23,
-       "location": "Water Tribe"
-    },
-    {
-       "name": "Prince Zuko",
-       "Age": 24,
-       "location": "Fire Nation"
-    }
- ]
+   {
+      "name": "Prince Rajesh",
+      "Age": 23,
+      "location": "kvp"
+   },
+   {
+      "name": "Aang",
+      "Age": 120,
+      "location": "Air Nation"
+   },
+   {
+      "name": "Katara",
+      "Age": 20,
+      "location": "Water Nation"
+   },
+   {
+      "name": "Sokka",
+      "Age": 23,
+      "location": "Water Tribe"
+   },
+   {
+      "name": "Prince Zuko",
+      "Age": 24,
+      "location": "Fire Nation"
+   },
+   {
+      "name": "Raja",
+      "Age": 22,
+      "location": "Kovilpatti"
+   },
+   {
+      "name": "Rajesh R",
+      "Age": 22,
+      "location": "Cbe"
+   },
+   {
+      "name": "Hello",
+      "Age": 23,
+      "location": "Cbe"
+   }
+]

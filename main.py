@@ -61,7 +61,7 @@ elif p_operations==5:
     if count==0:
         print("NO Data Found with this Student Name")
 elif p_operations==6:
-    exit
+    exit()
 else:
     print("Enter the Valid Operation")
         
